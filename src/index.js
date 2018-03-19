@@ -11,7 +11,7 @@ class MyComponent extends React.Component {
 class MySecondComponent extends React.Component {
     render() {
         return (
-            <MyComponent name="Hahahs"/>
+            <MyComponent name="Hahahsa"/>
         );
     }
 }
